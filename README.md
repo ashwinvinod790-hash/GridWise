@@ -36,3 +36,4 @@ Push the project to GitHub and import the repository into Vercel. Use:
 - Build command: `npm run build`
 - Output directory: `dist`
 
+Updated GridWise project documentation
